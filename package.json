@@ -1,0 +1,25 @@
+{
+  "name": "user-stories-use-case",
+  "version": "1.0.0",
+  "description": "An application to use concepts about TDD and User Stories.",
+  "main": "app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristianprochnow/user-stories-use-case.git"
+  },
+  "author": "Cristian Prochnow, Gustavo Henrique Dias",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cristianprochnow/user-stories-use-case/issues"
+  },
+  "homepage": "https://github.com/cristianprochnow/user-stories-use-case#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
