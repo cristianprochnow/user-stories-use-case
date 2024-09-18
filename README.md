@@ -5,3 +5,9 @@ An application to use concepts about TDD and User Stories.
 
 - [x] Cristian Prochnow
 - [x] Gustavo Henrique Dias
+
+# Getting Started
+
+```bash
+$ npm run test
+```
