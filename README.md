@@ -9,5 +9,6 @@ An application to use concepts about TDD and User Stories.
 # Getting Started
 
 ```bash
+$ npm install
 $ npm run test
 ```
